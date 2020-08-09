@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm a Typescript developper. SAGBO Aimé</h1>
 
 <h3 align="center">A passionate fullstack developer from Benin</h3>
-- I work on https://bookapp-online.com/
+- I worked on https://bookapp-online.com/
 
 - 👯 I’m looking to collaborate on **TypeScript project**
 
