@@ -16,17 +16,16 @@
 
 - [https://goldy98.github.io/shacli/](Shacli)
 - [https://bookapp-online.com/](Bookapp)
-
+- [https://play.google.com/store/apps/details?id=com.hermes.couture&hl=fr&gl=US](Mon salon de couture)
 
 - 👯 I’m looking to collaborate on **TypeScript project**
 
 - 🔭 I’m currently working on [Shacli](https://goldy98.github.io/shacli)  
+
+- 🌱 I’m currently learning Flutter  
   
 
-- 🌱 I’m currently learning React Native  
-  
-
-- ❓ Ask me about anything related to MEVN stack and related technologies  
+- ❓ Ask me about anything related to MEVN stack and Flutter technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces and i love Typescript  
