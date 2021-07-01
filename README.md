@@ -16,7 +16,7 @@
 
 - [https://goldy98.github.io/shacli/](Shacli)
 - [https://bookapp-online.com/](Bookapp)
-- [https://play.google.com/store/apps/details?id=com.hermes.couture&hl=fr&gl=US](Mon salon de couture)
+- [https://play.google.com/store/apps/details?id=com.hermes.couture&hl=fr&gl=US] (Mon salon de couture)
 
 - 👯 I’m looking to collaborate on **TypeScript project**
 
