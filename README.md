@@ -28,7 +28,7 @@
 - ❓ Ask me about anything related to MEVN stack and Flutter technologies  
   
 
-- ⚡ Fun fact: I love Typescript  
+- ⚡ Fun fact: Did i already mentionned that i love Typescript ?
 
 <br/>  
 
