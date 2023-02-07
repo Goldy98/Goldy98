@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **TypeScript project**
 
-- 🔭 I’m currently working on [Shacli](https://goldy98.github.io/shacli)  
+- 🔭 I’m currently working on [Currency Exchanger]([https://goldy98.github.io/shacli](https://github.com/Goldy98/chrome-currency-exchanger))  
 
 - 🌱 I’m currently learning Flutter  
   
@@ -28,7 +28,7 @@
 - ❓ Ask me about anything related to MEVN stack and Flutter technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces and i love Typescript  
+- ⚡ Fun fact: I love Typescript  
 
 <br/>  
 
